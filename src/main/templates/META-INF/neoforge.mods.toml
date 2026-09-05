@@ -9,9 +9,6 @@ displayName="${mod_name}"
 authors="The Austistic Cow Tippers"
 description="Addon for the Austistic Cow Tippers server"
 
-[[mixins]]
-config="${mod_id}.mixins.json"
-
 [[dependencies.${mod_id}]]
     modId="neoforge"
     type="required"

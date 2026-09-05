@@ -6,10 +6,18 @@
     "CDC"
   ],
   "key": {
-    "A": "minecraft:iron_block",
-    "B": "minecraft:oak_log",
-    "C": "minecraft:smooth_stone",
-    "D": "minecraft:dispenser"
+    "A": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:oak_log"
+    },
+    "C": {
+      "item": "minecraft:smooth_stone"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    }
   },
   "result": {
     "id": "create:schematicannon"
