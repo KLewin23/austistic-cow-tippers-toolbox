@@ -1,0 +1,45 @@
+{
+	"parts": [
+		{
+			"names": [
+				"door_right_transparent"
+			],
+			"positionDefinitions": [
+				"doorEnd2Flipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -15.48,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"door_left_transparent"
+			],
+			"positionDefinitions": [
+				"doorEnd2_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 15.48,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"end_transparent"
+			],
+			"positionDefinitions": [
+				"end2Flipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"end_transparent"
+			],
+			"positionDefinitions": [
+				"end2Flipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		}
+	],
+	"modelYOffset": 1
+}

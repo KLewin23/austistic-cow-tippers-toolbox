@@ -1,0 +1,105 @@
+{
+	"parts": [
+		{
+			"names": [
+				"door_left_transparent"
+			],
+			"positionDefinitions": [
+				"door_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 15.48,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"door_right_transparent"
+			],
+			"positionDefinitions": [
+				"door_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -15.48,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"door_left_transparent"
+			],
+			"positionDefinitions": [
+				"doorFlipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 15.48,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"door_right_transparent"
+			],
+			"positionDefinitions": [
+				"doorFlipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -15.48,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"window_middle_transparent"
+			],
+			"positionDefinitions": [
+				"0_position_transparent",
+				"0_position_flipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"window_transparent"
+			],
+			"positionDefinitions": [
+				"window1_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"window_transparent"
+			],
+			"positionDefinitions": [
+				"window2_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"window_middle_transparent"
+			],
+			"positionDefinitions": [
+				"0_position_transparent",
+				"0_position_flipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"window_transparent"
+			],
+			"positionDefinitions": [
+				"window1Flipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"window_transparent"
+			],
+			"positionDefinitions": [
+				"window2Flipped_transparent"
+			],
+			"renderStage": "INTERIOR_TRANSLUCENT"
+		}
+	],
+	"modelYOffset": 1
+}
