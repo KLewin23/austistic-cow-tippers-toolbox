@@ -1,5 +1,5 @@
 
-Installation information
+Installation information test
 =======
 
 This template repository can be directly cloned to get you started with a new
