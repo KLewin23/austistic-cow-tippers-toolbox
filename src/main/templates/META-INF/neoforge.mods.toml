@@ -1,5 +1,5 @@
-modLoader="javafml" #mandatory
-loaderVersion="${loader_version_range}" #mandatory
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
 license="${mod_license}"
 
 [[mods]]
@@ -27,8 +27,15 @@ config="${mod_id}.mixins.json"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
-modId = "mtr"
-type = "required"
-versionRange = "*"
-ordering = "AFTER"
-side = "BOTH"
+    modId = "mtr"
+    type = "required"
+    versionRange = "*"
+    ordering = "AFTER"
+    side = "BOTH"
+
+[[dependencies.${mod_id}]]
+    modId = "create"
+    type = "required"
+    versionRange = "*"
+    ordering = "AFTER"
+    side = "BOTH"
